@@ -10,3 +10,6 @@ Ao salvar o modelo em formato .pth, você pode carregá-lo em outros scripts Pyt
 Além disso, é possível personalizar o modelo antes de salvá-lo em formato .pth, ajustando seus parâmetros para atender às suas necessidades específicas. Por exemplo, você pode ajustar o número de camadas, o tamanho do embedding ou o número de neurônios em cada camada antes de salvá-lo.
 
 Em resumo, o script Mini_GPT2_PT.py mostra como salvar o modelo GPT-2 pré-treinado "pierreguillou/gpt2-small-portuguese" em formato .pth usando a biblioteca PyTorch. Isso permite que você carregue e use o modelo em outros ambientes onde a biblioteca PyTorch está instalada, sem precisar instalar a biblioteca Transformers ou baixar o arquivo binário completo do modelo.
+
+Fonte:
+https://huggingface.co/pierreguillou/gpt2-small-portuguese
